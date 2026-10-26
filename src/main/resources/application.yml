@@ -1,0 +1,5 @@
+string:
+  application:
+    name: Authentication Service
+server:
+  port: 8080
